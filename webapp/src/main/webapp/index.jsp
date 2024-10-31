@@ -12,7 +12,9 @@
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
-    
+    <label for="pancard"><b>pancard</b></label>
+    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <br>
     <label for="votercard"><b>voterid</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
